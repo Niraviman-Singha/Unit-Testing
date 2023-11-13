@@ -12,7 +12,7 @@ class Helper {
                 break
             }
             i++
-            j++
+            j--
         }
         return result
 
